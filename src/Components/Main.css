@@ -1,0 +1,15 @@
+table {
+    margin: auto;
+    border: 5px solid rgb(0, 0, 0);
+    width: 800px;
+    height: 200px;
+  }
+  
+  th {
+    border-bottom: 2px solid rgb(167, 167, 167);
+  }
+    
+  td {
+    text-align: center;
+    border-bottom: 4px solid rgb(145, 145, 145);
+  }
